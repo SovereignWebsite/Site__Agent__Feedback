@@ -1,5 +1,13 @@
 {
   "about": "Each agent of this type and the path to its agent.json. Every agent adds its own entry when it starts.",
   "site": "feedback.agents.sovereignweb.site",
-  "owners": []
+  "owners": [],
+  "agents": [
+    {
+      "agent": "a.feedback@SovereignWebsite.dinis",
+      "account": "account-a",
+      "owner": "dinis-cruz",
+      "path": "dinis-cruz/account-a/a.feedback/agent.json"
+    }
+  ]
 }
